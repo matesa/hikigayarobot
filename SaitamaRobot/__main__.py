@@ -52,10 +52,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Anime themed group management bot.
-Build by weebs for weebs, I specialize in managing anime and similar themed groups.
-You can find my list of available commands with /help.
+Merhaba {}, Benim Adım {}! Beni nasıl kullanacağınızla ilgili sorularınız varsa lütfen bana /help komutunu yollayın.
+
+@Poyraz2103 ve @sarlockHolmes tarafından yönetilen bir grup yöneticisi botuyum..
+
+Burya tıklayarak beni grubuna ekle [Gruba ekle](http://t.me/NightCrewRobot?startgroup=true).
+
+🎵Müzik kanalımıza Katılmak için Tıklayın🎵
+GOOD VİBES ŞARKI DÜNYASI [GOODVİBES](t.me/Fmsarkilar)
+
 """
 
 HELP_STRINGS = """
